@@ -62,4 +62,4 @@ volumes:
   mysql-data:
 networks:
   compose-net:
-  driver: bridge
+    driver: bridge
